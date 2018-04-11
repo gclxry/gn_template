@@ -1,0 +1,6 @@
+/build
+/build_overrides
+/buildtools
+/out
+/third_party/llvm-build
+/tools/clang
