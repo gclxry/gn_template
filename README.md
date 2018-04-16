@@ -12,3 +12,6 @@ Use gn to manage and compile cross-platform code.
 4. 如果需要支持clang编译，从chromium的代码目录复制tools\clang和third_party\llvm-build目录到本目录。
 5. 在windows平台，使用vs2017编译，先运行vs_gen.bat生成工程，再运行vs_build.bat开始编译。
 6. 在windows平台，使用clang编译，先运行clang_gen.bat生成工程，再运行clang_build.bat开始编译。
+
+## gn_tool使用方法
+推荐使用gn_tool脚本。它可以拷贝所需要的编译文件，生成编译工程和并编译、打包。

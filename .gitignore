@@ -2,5 +2,16 @@
 /build_overrides
 /buildtools
 /out
+/package
+/testing
+/third_party/ced
+/third_party/googletest
+/third_party/icu
+/third_party/libxml
 /third_party/llvm-build
+/third_party/modp_b64
+/third_party/win_build_output
+/third_party/zlib
 /tools/clang
+/tools/win/DebugVisualizers
+package.zip
